@@ -1,0 +1,10 @@
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\bin\Debug\valuta_atvalto.exe.config
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\bin\Debug\valuta_atvalto.exe
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\bin\Debug\valuta_atvalto.pdb
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.csproj.AssemblyReference.cache
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.Form1.resources
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.Properties.Resources.resources
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.csproj.GenerateResource.cache
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.csproj.CoreCompileInputs.cache
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.exe
+D:\Prog things\C#képzés\Házik\Valuta átváltó\valuta_atvalto\obj\Debug\valuta_atvalto.pdb
