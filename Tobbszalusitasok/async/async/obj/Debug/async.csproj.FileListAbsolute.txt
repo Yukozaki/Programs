@@ -1,0 +1,7 @@
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\bin\Debug\async.exe.config
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\bin\Debug\async.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\bin\Debug\async.pdb
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\obj\Debug\async.csproj.AssemblyReference.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\obj\Debug\async.csproj.CoreCompileInputs.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\obj\Debug\async.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\async\async\obj\Debug\async.pdb

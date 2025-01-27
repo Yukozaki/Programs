@@ -1,0 +1,7 @@
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\bin\Debug\PLINQ.exe.config
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\bin\Debug\PLINQ.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\bin\Debug\PLINQ.pdb
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\obj\Debug\PLINQ.csproj.AssemblyReference.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\obj\Debug\PLINQ.csproj.CoreCompileInputs.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\obj\Debug\PLINQ.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\PLINQ\obj\Debug\PLINQ.pdb

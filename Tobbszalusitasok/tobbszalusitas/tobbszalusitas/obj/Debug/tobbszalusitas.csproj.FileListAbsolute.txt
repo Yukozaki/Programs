@@ -1,0 +1,7 @@
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\bin\Debug\tobbszalusitas.exe.config
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\bin\Debug\tobbszalusitas.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\bin\Debug\tobbszalusitas.pdb
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\obj\Debug\tobbszalusitas.csproj.AssemblyReference.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\obj\Debug\tobbszalusitas.csproj.CoreCompileInputs.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\obj\Debug\tobbszalusitas.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszalusitas\obj\Debug\tobbszalusitas.pdb

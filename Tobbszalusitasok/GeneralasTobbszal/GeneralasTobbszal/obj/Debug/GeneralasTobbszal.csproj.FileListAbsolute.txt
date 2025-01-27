@@ -1,0 +1,20 @@
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.exe.config
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.pdb
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.AssemblyReference.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.Form1.resources
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.Properties.Resources.resources
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.GenerateResource.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.CoreCompileInputs.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.pdb
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.exe.config
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.exe
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\bin\Debug\GeneralasTobbszal.pdb
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.AssemblyReference.cache
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.Form1.resources
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.Properties.Resources.resources
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.GenerateResource.cache
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.csproj.CoreCompileInputs.cache
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.exe
+D:\Prog things\C#képzés\ProKepzes\2.óra\Goodversions\GeneralasTobbszal\GeneralasTobbszal\obj\Debug\GeneralasTobbszal.pdb

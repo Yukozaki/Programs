@@ -1,0 +1,7 @@
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\bin\Debug\tobbszal2.exe.config
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\bin\Debug\tobbszal2.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\bin\Debug\tobbszal2.pdb
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\obj\Debug\tobbszal2.csproj.AssemblyReference.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\obj\Debug\tobbszal2.csproj.CoreCompileInputs.cache
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\obj\Debug\tobbszal2.exe
+D:\OKTATÁS\Programok\2023Novembericsoport\tobbszalusitas\tobbszal2\obj\Debug\tobbszal2.pdb
