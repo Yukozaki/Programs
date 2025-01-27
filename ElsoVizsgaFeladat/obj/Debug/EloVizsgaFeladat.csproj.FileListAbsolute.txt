@@ -1,0 +1,10 @@
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\bin\Debug\EloVizsgaFeladat.exe.config
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\bin\Debug\EloVizsgaFeladat.exe
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\bin\Debug\EloVizsgaFeladat.pdb
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.csproj.AssemblyReference.cache
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.Form1.resources
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.Properties.Resources.resources
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.csproj.GenerateResource.cache
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.csproj.CoreCompileInputs.cache
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.exe
+D:\Prog things\C#képzés\Órai_Vizsga\EloVizsgaFeladat\obj\Debug\EloVizsgaFeladat.pdb
