@@ -1,0 +1,13 @@
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\bin\Debug\Donkey Kong.exe.config
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\bin\Debug\Donkey Kong.exe
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\bin\Debug\Donkey Kong.pdb
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey Kong.csproj.AssemblyReference.cache
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey_Kong.Form1.resources
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey_Kong.Properties.Resources.resources
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey Kong.csproj.GenerateResource.cache
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey Kong.csproj.CoreCompileInputs.cache
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey Kong.exe
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey Kong.pdb
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey_Kong.Jatek_Terulet.resources
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey_Kong.NevBekeroForm.resources
+D:\Prog things\C#képzés\25.óra(donky kong)\Donkey Kong\obj\Debug\Donkey_Kong.TopListaForm.resources
